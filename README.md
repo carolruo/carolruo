@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning HTML
+👯 I’m looking to collaborate on future projects
+🤔 I’m looking for help with my studies on HTML and microcontrollers
+📫 How to reach me: https://www.linkedin.com/in/carolinaruo/ [![Linkedin Badge](https://img.shields.io/badge/-CarolinaVendramini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinaruo/)](https://www.linkedin.com/in/carolinaruo/) 
+| 
