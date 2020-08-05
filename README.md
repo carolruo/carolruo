@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>I'm an electrical engineering student
+<br/>:blush: I'm an electrical engineering student
 <br/>🌱 I’m currently learning HTML
 <br/>👯 I’m looking to collaborate on future projects
 <br/>🤔 I’m looking for help with my studies on HTML and microcontrollers
