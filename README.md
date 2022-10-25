@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>:blush: I'm a Software Developer and Electrical Engineer
-<br/>🌱 I’m currently learning Node.js
+<br/>🌱 I’m currently learning Web development
 <br/>👯 I’m looking to collaborate on future projects
 <br/>🤔 I’m looking for help with my studies on programming
 <br/>📫 How to reach me: carolinaruo@gmail.com
