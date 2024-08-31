@@ -9,6 +9,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carolruo&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact&hide_border=true" alt="carolruo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carolruo&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="carolruo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carolruo=&theme=neon-dark&hide_border=true" alt="carolruo" /></p>
-
